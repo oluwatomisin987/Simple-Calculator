@@ -1,0 +1,78 @@
+body{
+    margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  width: 100%;
+background: black;
+}
+
+.calc-width{
+  width: 50%;
+  background: none;
+  margin: 2rem auto;
+  overflow: hidden;
+
+}
+
+
+.form{
+  width: 100%;
+  /* border: 4px solid black; */
+}
+
+.screen{
+  width: 100%;
+  height: 40px;
+background: pink;
+border: none;
+  font-size: 1.5em;
+  text-align: right;
+}
+
+.table-div{
+
+width: 100%;
+
+text-align:  center;
+
+}
+
+
+.sub-div{
+  width: 100%;
+  display: flex;
+}
+
+.btn{
+
+  width: 100%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-top: 0.4em;
+}
+
+.equal{
+
+  width: 100%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-top: 0.4em;
+}
+
+.btn-del{
+
+  width: 100%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-top: 0.4em;
+}
+
+.btn-reset{
+    width: 100%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-top: 0.4em;
+}
+
+
+
